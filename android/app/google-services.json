@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49420254861",
+    "project_id": "odifarm",
+    "storage_bucket": "odifarm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49420254861:android:7c4020dfe5db3b7ae2ecc4",
+        "android_client_info": {
+          "package_name": "com.example.odifarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRLR2YjLp-65hrhSnyv0fQTinK-cbzGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
