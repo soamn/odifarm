@@ -23,9 +23,9 @@ void main() async {
     ),
   );
   await Supabase.initialize(
-    url: 'https://wanbwselbjhaginvmnrd.supabase.co',
+    url: 'db',
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndhbmJ3c2VsYmpoYWdpbnZtbnJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgxNTU3NTcsImV4cCI6MjA2MzczMTc1N30.i3xUxvtKVf3ZenDcWE5Z3mNTFGAfF8latas0zqAd5q0',
+        'anon key',
   );
   runApp(
     MultiProvider(
